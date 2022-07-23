@@ -14,6 +14,6 @@ Asteroid hazard prediction is a random forest classifier based model which uses 
 
 4.Model evaluation: Using accuracy as the model evaluation metric, multiple machine learning models were evaluated against the dataset to check the most suitable fit. However, due to close metric evaluations, random forest classifier was implemented. 
 
-5. Hyperparameter tuning: Hyperparameters for the random forest classifier were selected by iterating through different values of hyperparameters.
+5.Hyperparameter tuning: Hyperparameters for the random forest classifier were selected by iterating through different values of hyperparameters.
 
 An overall Accuracy Metric for the test data came out to be 94.8% for the test set.
